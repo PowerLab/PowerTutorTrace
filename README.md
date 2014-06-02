@@ -20,8 +20,12 @@ It offers the following information.
 ### Contacts ###
 - ceslab@cnu.ac.kr
 
+### Related Project ###
+- [PowerDoctor](https://github.com/PowerLab/PowerDoctor)
+- [UPG](https://github.com/PowerLab/UPG)
+
 ### Wiki & FAQ ###
-wiki - /wiki
+- wiki - /wiki
 
 ### Excutable File ###
 - [Download](https://drive.google.com/folderview?id=0B4pme20nXq8ldFRGYXNOSEZyRmc&usp=sharing)
